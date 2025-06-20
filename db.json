@@ -1,0 +1,18 @@
+{
+  "students": [
+    {
+      "id": "afea",
+      "fullName": "Rohit Kumar",
+      "email": "rroy96617@gmail.com",
+      "age": "21",
+      "gender": "Male",
+      "skills": [
+        "JavaScript",
+        "CSS"
+      ],
+      "timeSlot": "Morning",
+      "agreed": true,
+      "avatar": "https://randomuser.me/api/portraits/men/75.jpg"
+    }
+  ]
+}
